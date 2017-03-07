@@ -1,0 +1,11 @@
+{
+  "name": "builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Nckcol",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
+}
